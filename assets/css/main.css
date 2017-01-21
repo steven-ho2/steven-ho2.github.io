@@ -550,8 +550,7 @@
 
 					ul.icons li a:before {
 						color: #ffffff;
-						text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
-						/*text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;*/
+						text-shadow: 1.25px 0px 0px #000000, -1.25px 0px 0px #000000, 0px 1.25px 0px #000000, 0px -1.25px 0px #000000;
 					}
 
 					ul.icons li a:hover:before {
@@ -571,7 +570,7 @@
 					}
 
 					ul.icons li a:hover {
-						border-color: #64defc; /*This was the color before: #64defc*/
+						border-color: #64defc;
 					}
 
 			@media screen and (max-width: 480px) {
